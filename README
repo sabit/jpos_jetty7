@@ -1,9 +1,6 @@
-This project is an embedded version of Jetty 7 ready to use as a jPOS module.
+This project is an embedded version of Jetty 8 ready to be used as a jPOS-EE module.
 
-Requires the following properties in your jposee properties files (devel.properties)
-
-web.port=Port to be used for http access
-sweb.port=Port to be used for https access
+It is a mavenized version of Jeronimo Paoletti's original work https://github.com/jpaoletti/jpos_jetty7
 
 For more information check jetty web site http://www.eclipse.org/jetty/
 
