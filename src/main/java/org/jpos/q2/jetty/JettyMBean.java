@@ -24,7 +24,7 @@ import org.jpos.q2.QBeanSupportMBean;
  *
  * @author msc
  */
-public interface Jetty8MBean extends QBeanSupportMBean{
+public interface JettyMBean extends QBeanSupportMBean{
     
    
     public void setConfig (String config);

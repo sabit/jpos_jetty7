@@ -27,7 +27,7 @@ import org.jpos.q2.QBeanSupport;
  * @version $Revision$ $Date$
  * @jmx:mbean description="Jetty QBean" extends="org.jpos.q2.QBeanSupportMBean"
  */
-public class Jetty8 extends QBeanSupport implements Jetty8MBean {
+public class Jetty extends QBeanSupport implements JettyMBean {
 
     private String config;
     private Server server;

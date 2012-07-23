@@ -36,8 +36,8 @@
             <version>2.0.1-SNAPSHOT</version>
         </dependency>
 	<dependency>
-            <groupId>org.eclipse.jetty</groupId>
-            <artifactId>jetty-webapp</artifactId>
+            <groupId>org.eclipse.jetty.aggregate</groupId>
+            <artifactId>jetty-all</artifactId>
             <version>8.1.5.v20120716</version>
 	</dependency>
 
